@@ -1,3 +1,3 @@
 # HolidayCheer
-If it looks like malware and does sketchy things like malware... it's probably malware
+If it looks like malware and does sketchy things like malware... it's probably malware, except when it isn't. 
 
