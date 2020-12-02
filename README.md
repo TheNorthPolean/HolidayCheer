@@ -3,3 +3,4 @@ If it looks like malware and does sketchy things like malware... it's probably m
 
 SECRET FLAG #1
 NWEgNmQgNzggNjggNWEgMzMgNzQgNjkgNWEgNTcgNGUgNjggNjQgNTggNGUgNmMgNTkgNmQgNDYgN2EgNWEgNTQgNTkgMzAgNjEgNTggNGUgMzAgNjIgMzIgMzkgNmMgNTkgNTggNGUgMzUgNjYgNTEgM2QgM2Q=
+<meta name="google-site-verification" content="Y3o_GozOzQCVtdlphn9kEG2aBnZOgaVXxXLNzCrX_7U" />
